@@ -1,13 +1,14 @@
 body {
   background-color: #3aaf9f;
+  height: 4000px;
 }
 .custom-bg-color {
-  background-color: #3aaf9f;
+  background-color: #3aaf9f !important;
 }
 .custom-color {
   color: #3aaf9f;
 }
 
 .custom-color2 {
-  background-color: #eeeeee;
+  background-color: #d1d1d1;
 }
