@@ -10,4 +10,9 @@ body {
 
 .custom-color2 {
   background-color: #d1d1d1;
+  color: black;
+}
+img {
+  width: fit-content;
+  height: 20rem;
 }
